@@ -22,6 +22,12 @@ if m == 1:
     second = int(input("두번쨰 수를 입력하세요 : "))
 
     print("결과값 :", first + second)
+if m == 2;
+    first = int(input("첫번째 수를 입력하세요 : "))
+
+    second = int(input("두번쨰 수를 입력하세요 : "))
+    
+    print("결과값 :", first - second)
 
 if m == 5:
     first = int(input("첫번째 수를 입력하세요 : "))
