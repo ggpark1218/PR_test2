@@ -67,7 +67,11 @@ if m == 8;
     frist = int(input("첫번째 수를 입력하세요 : "))
     
     print("결과값 :", math.sin(first))
-    
+
+if m == 9;
+    first = int(input("첫번째 수를 입력하세요: "))
+
+    print("결과값:", math.cos(first))
     
 
 if m == 10:
