@@ -67,3 +67,5 @@ if m == 3:
 
     print("결과값 :", first / second)
 
+if m == 12:
+    print(math.e)
