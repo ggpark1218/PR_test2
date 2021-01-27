@@ -1,3 +1,4 @@
+# -*- coding: utf8 -*-
 #calculator 만들기
 
 # 더하기 1 : 배한재
@@ -25,7 +26,7 @@ if m == 1:
     
     print("결과값 :", first + second)
 
-if m == 2;
+if m == 2:
     first = int(input("첫번째 수를 입력하세요 : "))
 
     second = int(input("두번쨰 수를 입력하세요 : "))
@@ -55,6 +56,13 @@ if m == 5:
     second = int(input("두번째 수를 입력하세요 : "))
 
     print("결과값 :", first % second)
+
+if m == 6:
+    first = int(input("첫번째 수를 입력하세요 : "))
+
+    second = int(input("두번째 수를 입력하세요 : "))
+
+    print("결과값 :", first ** second)
     
 if m == 7:
     first = int(input("첫번째 수를 입력하세요 : "))
@@ -63,12 +71,12 @@ if m == 7:
 
     print("결과값 :", first * second)
     
-if m == 8;
+if m == 8:
     frist = int(input("첫번째 수를 입력하세요 : "))
     
     print("결과값 :", math.sin(first))
 
-if m == 9;
+if m == 9:
     first = int(input("첫번째 수를 입력하세요: "))
 
     print("결과값:", math.cos(first))
